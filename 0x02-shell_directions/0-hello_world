@@ -1,4 +1,5 @@
 #!/bin/bash
-cat "Hello, World"| fmt | pr | lpr
+echo "Hello, World"
+
 
 
